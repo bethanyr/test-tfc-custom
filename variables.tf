@@ -5,7 +5,7 @@ variable "aws_region" {
 
 variable "db_table_name" {
   type    = string
-  default = "terraform-bethany"
+  default = "terraform-bethanyr"
 }
 
 variable "db_read_capacity" {
